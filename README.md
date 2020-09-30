@@ -12,7 +12,7 @@ orders, news reports, or “inside jokes”
 
 The board accepts push button inputs, stops when the phone goes off-hook (phone must have a suitable contact to provide an isolated ground 
 or use the MRCS Off-Hook_Detector) and can drive loads of up to 0.5 Amp at up to 48 Volts DC.  All buzzer/sounder devices must use the same
-supply.  Sounders must have have a coil resistance of greater than 40 ohms if using a 12V supply, or else use our Sunder Driver.
+supply.  Sounders must have have a coil resistance of greater than 40 ohms if using a 12V supply, or else use our Sounder Driver.
 
 This version accepts 10-24 VDC from the MRCS telephone bus or a layout auxilliary supply or an external wall wart (not supplied)
 
